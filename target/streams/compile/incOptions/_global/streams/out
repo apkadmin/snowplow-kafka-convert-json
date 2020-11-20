@@ -1,0 +1,11 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\nguye\Desktop\kafkaconnect\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] 	KafaConnect.class
+[debug] 	KafaConnect$.class
+[debug] We backup class files:
+[debug] 	KafaConnect.class
+[debug] 	KafaConnect$.class
+[debug] Registering generated classes:
+[debug] 	KafaConnect.class
+[debug] 	KafaConnect$.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\nguye\Desktop\kafkaconnect\target\scala-2.13\classes.bak

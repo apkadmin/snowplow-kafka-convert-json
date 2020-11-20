@@ -1,0 +1,15 @@
+[debug] > Exec({file:/C:/Users/nguye/Desktop/kafkaconnect/}kafkaconnect/run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\nguye\Desktop\kafkaconnect\target\scala-2.13\classes ...
+[warn] 1 deprecation
+[warn] 1 deprecation (since 2.13.0)
+[warn] 2 deprecations in total; re-run with -deprecation for details
+[warn] three warnings found
+[info] done compiling
+[error] Nonzero exit code: 1
+[error] (Compile / run) Nonzero exit code: 1
+[error] Total time: 2 s, completed Nov 20, 2020, 12:53:19 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

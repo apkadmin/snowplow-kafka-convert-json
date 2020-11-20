@@ -1,0 +1,7 @@
+[debug] Packaging C:\Users\nguye\Desktop\kafkaconnect\target\scala-2.13\kafkaconnect_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	KafaConnect$.class
+[debug] 	  C:\Users\nguye\Desktop\kafkaconnect\target\scala-2.13\classes\KafaConnect$.class
+[debug] 	KafaConnect.class
+[debug] 	  C:\Users\nguye\Desktop\kafkaconnect\target\scala-2.13\classes\KafaConnect.class
+[debug] Done packaging.

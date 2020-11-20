@@ -1,0 +1,9 @@
+[debug] > Exec({file:/C:/Users/nguye/Desktop/kafkaconnect/}kafkaconnect/run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[error] Nonzero exit code: 1
+[error] (Compile / run) Nonzero exit code: 1
+[error] Total time: 3 s, completed Nov 20, 2020, 12:52:20 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
